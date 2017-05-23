@@ -10,17 +10,17 @@
 Kullanılabilir bir kaynak oluşturmak için ekleyeceğiniz dökümanı aşağıdaki formata uygun bir şekilde düzenlemeniz çorbadaki tuzunuzu arttıracak, daha lezzetli bir kaynak oluşmasına sebep olacaktır. Şimdiden teşekkürler!
 
 ######
-    ./DERS-ADI                      -> Dersin adı
-    /YYYY                       -> Dersin Yılı
-      /DERS-YÜRÜTÜCÜ-ADI        -> Dersin veren akademisyenin ismi
-        /Görseller              -> Ders hakkında Görsel Materyaller
-        /Ders Notları           -> Ders Hakkında Notlar
-          /Slaytlar
-          /PDFler
-        /Sınav Soruları         -> Çıkmış veya çıkabilecek sorular
-          /Sınav İsmi           -> VIZE-2-BAHAR-2017.pdf isim formatında olmalıdır
-        /Faydalı Dökümanlar     -> Youtube dersleri, Makaleler vb.
-        /Duyurular
+    /DERS-ADI                       -> Dersin adı
+        /YYYY                       -> Dersin Yılı
+          /DERS-YÜRÜTÜCÜ-ADI        -> Dersin veren akademisyenin ismi
+            /Görseller              -> Ders hakkında Görsel Materyaller
+            /Ders Notları           -> Ders Hakkında Notlar
+              /Slaytlar
+              /PDFler
+            /Sınav Soruları         -> Çıkmış veya çıkabilecek sorular
+              /Sınav İsmi           -> VIZE-2-BAHAR-2017.pdf isim formatında olmalıdır
+            /Faydalı Dökümanlar     -> Youtube dersleri, Makaleler vb.
+            /Duyurular
  ######
 
 ### ℹ️ Kaynaklar Hakkkında
