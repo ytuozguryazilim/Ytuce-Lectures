@@ -25,4 +25,4 @@ Kullanılabilir bir kaynak oluşturmak için ekleyeceğiniz dökümanı aşağı
 ######
 
 ### ℹ️ Kaynaklar Hakkkında
-Kullanılan materyaller eğtim kalitsine faydada bulunmak amacıyla kullanılmaktadır. Telif hakkı içeren durumları lütfen bize bildiriniz.
+İçerikteki materyaller eğtim kalitesine faydada bulunmak amacıyla eklenmiştir. Telif hakkı içeren durumları lütfen bize bildiriniz.
