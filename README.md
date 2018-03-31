@@ -6,16 +6,16 @@
 ##### Elinizde Ders Notu, Çıkmış Soru, Faydalı Link bulunuyorsa PULL REQUEST ile ekleyebilirsiniz!
 
 ### Mevcut Dersler
-| Ders Kodu     | Ders          							  			                             |
-| ------------- |:-----------------------------------------------------------------------------------|
+| Ders Kodu     | Ders          							  			                                  |
+| ------------- |:----------------------------------------------------------------------------------------|
 | BLM4871       | [Formal Languages And Automata(Biçimsel Diller)](../../tree/BLM4871)                    |
 | BLM3830       | [Security Of Computer Systems(Bilişim Sistemi Güvenliği)](../../tree/BLM3830)           |
-| BLM3711 		| [Database Management(Veri Tabanı)](../../tree/BLM3711)            				         |
-| BLM3561       | [Operating Systems(İşletim Sistemleri)](../../tree/BLM3561) 	                         |  
+| BLM3711 		| [Database Management(Veri Tabanı)](../../tree/BLM3711)            				      |
+| BLM3561       | [Operating Systems(İşletim Sistemleri)](../../tree/BLM3561) 	                          |  
 | BLM3520       | [Introduction To Mobile Programming(Mobil Programlamaya Giriş)](../../tree/BLM3520)     |
 | BLM2612 		| [Computer Hardware(Bilgisayar Donanımı)](../../tree/BLM2612)                            |
 | BLM2512       | [Data Structures And Algorithms(Veri Yapıları Ve Algoritmalar)](../../tree/BLM2512)     |
-| BLM2502       | [Computing Theory(Hesaplama Kuramı)](../../tree/BLM2502)              	                 |
+| BLM2502       | [Computing Theory(Hesaplama Kuramı)](../../tree/BLM2502)              	              |
 | BLM1552 		| [Introduction To Computer Science-2(Bilgisayar Bilimlerine Giriş-2)](../../tree/BLM1552)|
 | BLM1551       | [Introduction To Computer Science-1(Bilgisayar Bilimlerine Giriş-1)](../../tree/BLM1551)|
 
@@ -37,6 +37,32 @@ Kullanılabilir bir kaynak oluşturmak için ekleyeceğiniz dökümanı aşağı
             /Duyurular
 ######
 
+### Nasıl İndirilir ?
+##### Tüm kaynakları indirmek için : 
+```
+git clone https://github.com/GnuYtuce/Ytuce-Lectures.git
+```
+##### Belli bir branch yada ders indirmek için : 
+```
+git clone <repo-name> --branch <branch-name> --single-branch --depth 1
+``` 
+Örnek1 (master):  
+```
+git clone https://github.com/GnuYtuce/Ytuce-Lectures.git --branch master --single-branch --depth 1
+```
+Örnek2 (BLM3561-Operating Systems):  
+```
+git clone https://github.com/GnuYtuce/Ytuce-Lectures.git --branch BLM3561 --single-branch --depth 1
+```
+
+### Katkıda Bulunanlar
+
+* [pleycpl (h4veyr0ss)](https://github.com/pleycpl)
+* [hibestil (Halil Ibrahim Bestil)](https://github.com/hibestil)
+* [Emre-Kul (Emre Kul)](https://github.com/Emre-Kul)
+
 ### ℹ️ Kaynaklar Hakkkında
 İçerikteki materyaller eğtim kalitesine faydada bulunmak amacıyla eklenmiştir. Telif hakkı içeren durumları lütfen bize bildiriniz.
+
+
 
